@@ -21,7 +21,7 @@ bounce2.init('.bounce2', {gravity: 2, updateSpeed:2});
 ```
 
 ## Demo
-See bounce [demo](http://i874261.iris.fhict.nl/s4/bounce/demo)
+See bounce [demo](https://semester4.nl/bounce/demo)
 
 ## Motivation
 
