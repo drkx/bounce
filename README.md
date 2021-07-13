@@ -25,7 +25,7 @@ See bounce [demo](https://semester4.nl/bounce/demo)
 
 ## Motivation
 
-This library was created as a small example on how you can create a library. <a id="raw-url" href="https://raw.githubusercontent.com/drkx/bounce/master/bounce.js">Test</a>
+This library was created as a small example on how you can create a library. <a id="raw-url" href="https://raw.githubusercontent.com/drkx/bounce/master/bounce.js" download>Test</a>
 
 ## Installation
 
